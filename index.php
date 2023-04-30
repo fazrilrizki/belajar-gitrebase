@@ -10,10 +10,14 @@
 
 <body>
     <h1>Belajar Git Rebase</h1>
+<<<<<<< HEAD
     <p>Tambahkan fitur</p>
     <ul>
         <li>Tambahkan list</li>
     </ul>
+=======
+    <h1>Mencoba git rebase</h1>
+>>>>>>> 4ce7c0b92c893445ffcae6d1ed7450fb22a05908
 </body>
 
 </html>
